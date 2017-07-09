@@ -1,0 +1,6 @@
+Revision history for Perl extension Batch::Log.
+
+0.01  Sun Jul  9 10:16:43 2017
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n Batch::Log -b 5.10.0
+
